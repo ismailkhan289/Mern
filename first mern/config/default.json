@@ -1,0 +1,7 @@
+// default.json
+
+{
+  "mongoURI":
+    "mongodb+srv://ismail:abp289@cluster0.hxlkx.mongodb.net/?retryWrites=true&w=majority"
+}
+ /* Replace <password> with your database password */
